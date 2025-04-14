@@ -54,7 +54,7 @@ We are at the beginning of the journey. If you are interested in:
 - Quantum-inspired AI
 - Building tools for complex uncertainty
 
-...join us. Open an issue or connect via LinkedIn
+join us. Open an issue or connect via LinkedIn
 
 ---
 
