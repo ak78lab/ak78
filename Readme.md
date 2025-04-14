@@ -6,7 +6,7 @@ Welcome to the AK78 Core Platform - a quantum-inspired adaptive management engin
 
 We are building a new class of intelligent systems based on principles drawn from quantum mechanics - not for physical computations, but for rethinking how we adapt, decide, and organize in volatile conditions.
 
-This platform serves as the core engine of the AK78 Management concept: a framework for decision-making under uncertainty using ideas like entropy optimization, wavefunction collapse protection, and superposition-based scenario evaluation.
+This platform serves as the core engine of the AK78 concept: a framework for decision-making under uncertainty using ideas like entropy optimization, wavefunction collapse protection, and superposition-based scenario evaluation.
 
 ---
 
