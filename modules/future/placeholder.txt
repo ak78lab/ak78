@@ -1,0 +1,5 @@
+Reserved for future modules and experimental tools for the AK78 Core Platform.
+
+- Neural Resonance Analyzer
+- Quantum-Behavioral Interfaces
+- Scenario Superposition Simulator
