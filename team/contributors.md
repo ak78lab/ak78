@@ -4,7 +4,7 @@
 - Sergei Kulkov — Vision, Architecture, Strategy
 
 ## Assistants & Collaborators
-- Aksiniia Kulkova — Documentation and initial scaffolding support
+- Aksiniia Kulkova — Creative
 
 ## Want to join?
 Open an issue or reach out via LinkedIn
