@@ -3,6 +3,6 @@
 Here we will add diagrams and flowcharts describing how different modules of the AK78 platform interact.
 
 Suggestions:
-- Use Mermaid.js for diagrams (Markdown compatible)
+- Mermaid.js for diagrams
 - Show modular relationships
 - Map information flow from input to action
