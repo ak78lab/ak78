@@ -12,9 +12,9 @@ This platform serves as the core engine of the AK78 concept: a framework for dec
 
 ## 🔍 Key Concepts
 
-- **Superposition Management** - hold multiple possible plans or states before committing to one.
+- **Superposition Management** - hold multiple potential outcomes before collapsing into action.
 - **Entropy Optimization** - detect and regulate disorder or ambiguity in systems.
-- **Wavefunction Collapse Protection** - avoid premature decisions before enough information is available.
+- **Wavefunction Collapse Protection** - resist premature decisions; wait until clarity outweighs noise.
 - **Quantum AI Error Correction** - self-correcting mechanisms inspired by quantum error correction logic.
 
 ---
