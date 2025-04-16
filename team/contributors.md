@@ -7,4 +7,4 @@
 - Aksiniia Kulkova — Creative
 
 ## Want to join?
-Open an issue or reach out via LinkedIn
+Open an issue or reach out via X
