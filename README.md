@@ -1,4 +1,4 @@
-# AK78 Ecosystem
+# AK78 Core
 
 AK78 Core is a quantum-inspired engine for adaptive management in high-uncertainty environments — the foundation of the AK78 Ecosystem.
 
